@@ -1,8 +1,0 @@
-pwd
-ls -la
-mkdir -p demo
-cd demo
-cp file1 file2
-mv old.txt new.txt
-uptime
-date
